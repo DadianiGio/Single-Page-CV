@@ -2,9 +2,7 @@
 This is a simple single-page CV built with HTML and styled with basic CSS.
 
 ## 🔗 Project URL  
-https://dadianigio.github.io/Single-Page-CV/
-
-https://roadmap.sh/projects/single-page-cv
+https://github.com/DadianiGio/Single-Page-CV
 
 ## 📂 Repository  
 This repository contains the code for my single-page CV.
