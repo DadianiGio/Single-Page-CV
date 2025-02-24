@@ -3,7 +3,7 @@ This is a simple single-page CV built with HTML and styled with basic CSS.
 
 ## 🔗 Project URL  
 
-(https://dadianigio.github.io/Single-Page-CV/)
+'https://dadianigio.github.io/Single-Page-CV/'
 
 
 ## 📂 Repository  
