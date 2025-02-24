@@ -11,3 +11,4 @@ This repository contains the code for my single-page CV.
 - HTML  
 - CSS  
 - Open Graph Meta Tags  
+https://roadmap.sh/projects/single-page-cv
